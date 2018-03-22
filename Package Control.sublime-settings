@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Anaconda",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"FileBrowser",
+		"Git",
+		"Git blame",
+		"GitGutter",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Centurion",
+		"Theme - Seti Monokai",
+		"Theme - SoDaReloaded",
+		"TrailingSpaces"
+	]
+}

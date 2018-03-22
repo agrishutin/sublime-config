@@ -1,0 +1,39 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/home/flask/SIC/B/my_solutions/**"
+	],
+	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"FileBrowser",
+		"Vintage"
+	],
+	"theme": "Seti Monokai.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
