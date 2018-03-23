@@ -5,18 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"1Self",
 		"A File Icon",
 		"Alignment",
+		"AlignTab",
 		"Anaconda",
+		"AutoFileName",
+		"AutoPEP8",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Colorsublime",
+		"Competitive Programming",
+		"CPP Competitive Programming Snippets",
+		"Djaneiro",
 		"FileBrowser",
+		"Gist",
 		"Git",
 		"Git blame",
 		"GitGutter",
-		"LaTeX-cwl",
-		"LaTeXTools",
+		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"SFTP",
@@ -27,11 +34,13 @@
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",
+		"Sublimerge 3",
 		"Terminal",
 		"Theme - Brogrammer",
 		"Theme - Centurion",
 		"Theme - Seti Monokai",
 		"Theme - SoDaReloaded",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Trimmer"
 	]
 }
